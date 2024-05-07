@@ -2,6 +2,8 @@
 
 In this tutorial, I learned about the fundamentals of Symfony, building a real project while learning the ins and outs of Symfony development. 
 
+### Tutorial link: https://symfonycasts.com/tracks/symfony7
+
 ## About
 
 1. **Create a New Symfony App**
